@@ -359,3 +359,77 @@ header .logo {
     font-weight: bold;
     margin-top: 15px;
 }
+
+
+.showcase-testemunho {
+    background: #fff;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 6%;
+    gap: 50px;
+}
+
+.showcase-testemunho img {
+    height: 640px;
+    flex: 1 0 0;
+    border-radius: 30px;
+}
+.menu-icon {
+    display: none;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
+.testimonial-content {
+    flex: 1;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rating {
+    margin-bottom: 15px;
+}
+
+.star {
+    color: #000000;
+    font-size: 24px;
+}
+
+.quote {
+    font-size: 22px;
+    line-height: 1.6;
+    margin: 0 0 20px 0;
+    font-style: italic;
+}
+
+.autor {
+    margin-top: auto;
+}
+
+.nome {
+    font-weight: bold;
+    margin: 0;
+}
+
+.ocupacao {
+    color: #666;
+    margin: 4px 0 0 0;
+}
+
+@media (max-width: 600px) {
+    .testimonial {
+        flex-direction: column;
+    }
+
+    .image-container {
+        max-width: 100%;
+    }
+}
