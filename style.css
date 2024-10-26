@@ -50,6 +50,7 @@ header .logo {
     align-items: center;
     margin: 10px 6%;
     gap: 50px;
+    
 }
 
 .showcase img {
@@ -485,7 +486,6 @@ header .logo {
     border-radius: 10px;
     padding: 20px;
     margin-bottom: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .event-card {
@@ -586,6 +586,37 @@ header .logo {
     height: 350px;
     object-fit: cover;
     border-radius: 10px;
+}
+
+.footer {
+    background-color: white;
+    margin-top: auto;
+    padding: 10px 6%;
+}
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-footer {
+    font-weight: bold;
+    font-size: 24px;
+}
+.social-icons a {
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
+.footer hr {
+    border: none;
+    margin: 20px 0;
+}
+.footer-info {
+    text-align: center;
+    font-size: 14px;
+    color: #666;
 }
 
 
