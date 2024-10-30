@@ -1,4 +1,4 @@
-# **Núcleo Mariense de Letras (NUMALE)** ⚔🛡
+# **Núcleo Mariense de Letras (NUMALE)** 
 
 ## **Sobre o Projeto** 
 
