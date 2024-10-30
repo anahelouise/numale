@@ -1,11 +1,6 @@
 # **Núcleo Mariense de Letras (NUMALE)** ⚔🛡
 
-
-![NUMALE](https://anahelouise.github.io/numale/pages/img/Image.jpg)
-
-
 ## **Sobre o Projeto** 
-
 
 **NUMALE**  é um coletivo de Maria da Fé - MG, com a missão de promover e difundir a arte local em suas mais diversas formas.
 
