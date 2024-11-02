@@ -1,7 +1,5 @@
 # **Núcleo Mariense de Letras (NUMALE)** 
 
-## **Sobre o Projeto** 
-
 **NUMALE**  é um coletivo de Maria da Fé - MG, com a missão de promover e difundir a arte local em suas mais diversas formas.
 
 O projeto busca capturar a essência desse nucleo, permitindo que os usuários explorem e conheçam não apenas as histórias dos membros, mas também a dinâmica dos saraus e conheçam as obras publicadas dos membros. 
