@@ -203,7 +203,38 @@ header .logo {
     margin-top: auto;
     padding: 10px 6%;
 }
+.footer-content {
+    max-width: 1200px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo-footer {
+    font-weight: bold;
+    font-size: 24px;
+}
+.social-icons a {
+    margin-left: 10px;
+    color: black;
+    text-decoration: none;
+}
 
+.footer hr {
+    border: none;
+    margin: 20px 0;
+}
+
+.footer-info a {
+    color: #665;
+    text-decoration: none;
+}
+.footer-info {
+    text-align: center;
+    font-size: 14px;
+    color: #665;
+    margin-bottom: 15px;
+}
 /* Responsividade */
 @media (max-width: 1024px) {
     .showcase, .showcase-homenageado, .showcase-poesiadomes, .showcase-testemunho, .showcase-eventos {

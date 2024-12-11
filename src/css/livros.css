@@ -180,7 +180,6 @@ header .logo {
     background-color: #f5f5f5;
 }
 
-
 .footer {
     background-color: white;
     margin-top: auto;
@@ -207,10 +206,15 @@ header .logo {
     border: none;
     margin: 20px 0;
 }
+
+.footer-info a {
+    color: #665;
+    text-decoration: none;
+}
 .footer-info {
     text-align: center;
     font-size: 14px;
-    color: #666;
+    color: #665;
     margin-bottom: 15px;
 }
 
